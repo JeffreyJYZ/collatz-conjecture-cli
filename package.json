@@ -39,10 +39,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/REPLACE_WITH_USER/REPLACE_WITH_REPO.git"
+		"url": "git+https://github.com/JeffreyJYZ/collatz-conjecture-cli.git"
 	},
 	"bugs": {
-		"url": "https://github.com/REPLACE_WITH_USER/REPLACE_WITH_REPO/issues"
+		"url": "https://github.com/JeffreyJYZ/collatz-conjecture-cli/issues"
 	},
-	"homepage": "https://github.com/REPLACE_WITH_USER/REPLACE_WITH_REPO#readme"
+	"homepage": "https://github.com/JeffreyJYZ/collatz-conjecture-cli#readme"
 }
